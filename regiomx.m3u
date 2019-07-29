@@ -1,0 +1,226 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://3.bp.blogspot.com/--lCxTMtpU40/WcgWNrEwaMI/AAAAAAAAAX4/xHZi5qp08SIrAzErQYQma0bbSy422YnWwCLcBGAs/s320/Sin%2Bt%25C3%25ADtulo-1.jpg", SRREGIO.NET
+http://srregio.com/
+#EXTINF:0 tvg-logo="http://www.playstorear.com/wp-content/uploads/actualizar.png", Actualizada 26.07.2019
+http://srregio.com/
+#EXTINF:0 tvg-logo="http://imagenpng.com/wp-content/uploads/2016/09/Paypal-Logo-PNG-0.png", http://paypal.me/SrRegio
+http://srregio.com/
+#EXTINF:0 tvg-logo="https://www.facebook.com/images/fb_icon_325x325.png", @SrRegio
+http://srregio.com/
+#EXTINF:0 tvg-logo="http://msfi.ir/Content/img/Logos/telegram2.png", @SrRegio
+http://srregio.com/
+#EXTINF:0 tvg-logo="http://msfi.ir/Content/img/Logos/telegram2.png", t.me/SrRegioPeticiones
+http://srregio.com/
+
+#EXTINF:-1 tvg-id="" tvg-logo="", Azteca 1
+http://regioflix.club/canales/regiomx258asdda/azteca1.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Las Estrellas
+http://regioflix.club/canales/regiomx258asdda/lasestrellas.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Imagen TV
+http://regioflix.club/canales/regiomx258asdda/imagentv.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Canal 5
+http://regioflix.club/canales/regiomx258asdda/canal5.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", BitMe
+http://regioflix.club/canales/regiomx258asdda/bitme.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Multimeddios
+http://regioflix.club/canales/regiomx258asdda/multimedios.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Azteca 7
+http://regioflix.club/canales/regiomx258asdda/azteca7.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Nu9ve
+http://regioflix.club/canales/regiomx258asdda/nu9ve.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", ForoTV
+http://regioflix.club/canales/regiomx258asdda/forotv.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", FOX
+http://regioflix.club/canales/regiomx258asdda/fox.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Universal
+http://regioflix.club/canales/regiomx258asdda/universal.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", FX
+http://regioflix.club/canales/regiomx258asdda/fx.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", TruTV
+http://regioflix.club/canales/regiomx258asdda/trutv.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Comedy Central HD
+http://regioflix.club/canales/regiomx258asdda/comedycentral.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Unicable
+http://regioflix.club/canales/regiomx258asdda/unicable.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", TNT Series
+http://regioflix.club/canales/regiomx258asdda/tntseries.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Tlnovelas
+http://regioflix.club/canales/regiomx258asdda/tlnovelas.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Distrito Comedia
+http://regioflix.club/canales/regiomx258asdda/distritocomedia.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", TBS
+http://regioflix.club/canales/regiomx258asdda/tbs.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Hola TV
+http://regioflix.club/canales/regiomx258asdda/holatv.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", MasChic
+http://regioflix.club/canales/regiomx258asdda/maschic.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", FoodNetwork
+http://regioflix.club/canales/regiomx258asdda/foodnetwork.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Baby First
+http://regioflix.club/canales/regiomx258asdda/babyfirst.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Discovery Kids
+http://regioflix.club/canales/regiomx258asdda/discoverykids.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Discovery Kids HD
+http://regioflix.club/canales/regiomx258asdda/discoverykidshd.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Nicktoons
+http://regioflix.club/canales/regiomx258asdda/nicktoons.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Nick
+http://regioflix.club/canales/regiomx258asdda/nick.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Nick HD
+http://regioflix.club/canales/regiomx258asdda/nickhd.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Nick 2
+http://regioflix.club/canales/regiomx258asdda/nick2.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Nat Geo Kids
+http://regioflix.club/canales/regiomx258asdda/natgeokids.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Tiin
+http://regioflix.club/canales/regiomx258asdda/tiin.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Cartoon Network
+http://regioflix.club/canales/regiomx258asdda/cartoonnetwork.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Boomerang
+http://regioflix.club/canales/regiomx258asdda/boomerang.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Discovery Channel
+http://regioflix.club/canales/regiomx258asdda/discoverychannel.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Discovery ID
+http://regioflix.club/canales/regiomx258asdda/discoveryid.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Discovery Turbo
+http://regioflix.club/canales/regiomx258asdda/discoveryturbo.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", TLC
+http://regioflix.club/canales/regiomx258asdda/tlc.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Gourmet
+http://regioflix.club/canales/regiomx258asdda/gourmet.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Garage TV
+http://regioflix.club/canales/regiomx258asdda/garagetv.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Glitz
+http://regioflix.club/canales/regiomx258asdda/glitz.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", H&H
+http://regioflix.club/canales/regiomx258asdda/hh.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", FoxLife
+http://regioflix.club/canales/regiomx258asdda/foxlife.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", NatGeo
+http://regioflix.club/canales/regiomx258asdda/natgeo.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", NatGeo Wild
+http://regioflix.club/canales/regiomx258asdda/natgeokids.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Animal Planet HD
+http://regioflix.club/canales/regiomx258asdda/animalplanet.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", TNT
+http://regioflix.club/canales/regiomx258asdda/tnt.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Golden Plus
+http://regioflix.club/canales/regiomx258asdda/goldenplus.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Golden
+http://regioflix.club/canales/regiomx258asdda/golden.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Golden Edge
+http://regioflix.club/canales/regiomx258asdda/goldenedge.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Az Cinema
+http://regioflix.club/canales/regiomx258asdda/azcinema.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Morbido TV
+http://regioflix.club/canales/regiomx258asdda/morbidotv.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Paramount Channel
+http://regioflix.club/canales/regiomx258asdda/paramountchannel.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", FXM
+http://regioflix.club/canales/regiomx258asdda/fxm.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Cinecanal
+http://regioflix.club/canales/regiomx258asdda/cinecanal.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", AMC
+http://regioflix.club/canales/regiomx258asdda/amc.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", De Pelicula
+http://regioflix.club/canales/regiomx258asdda/depelicula.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", De Pelicula Plus
+http://regioflix.club/canales/regiomx258asdda/depeliculaplus.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Space
+http://regioflix.club/canales/regiomx258asdda/space.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", SundanceTV
+http://regioflix.club/canales/regiomx258asdda/sundancetv.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Studio Universal
+http://regioflix.club/canales/regiomx258asdda/studiouniversal.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Europa
+http://regioflix.club/canales/regiomx258asdda/europa.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Films & Arts
+http://regioflix.club/canales/regiomx258asdda/filmsarts.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", I Sat
+http://regioflix.club/canales/regiomx258asdda/isat.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", TCM
+http://regioflix.club/canales/regiomx258asdda/tcm.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", ESPN
+http://regioflix.club/canales/regiomx258asdda/espn.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", ESPN 2
+http://regioflix.club/canales/regiomx258asdda/espn2.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Fox Sports
+http://regioflix.club/canales/regiomx258asdda/foxsports.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Fox Sports 2
+http://regioflix.club/canales/regiomx258asdda/foxsports2.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Fox Sports 3 HD
+http://regioflix.club/canales/regiomx258asdda/foxsports3.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Claro Sports
+http://regioflix.club/canales/regiomx258asdda/clarosports.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Havoc
+http://regioflix.club/canales/regiomx258asdda/havoc.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", LAS
+http://regioflix.club/canales/regiomx258asdda/LAS.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", AyM Sports
+http://regioflix.club/canales/regiomx258asdda/aymsports.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", PX5
+http://regioflix.club/canales/regiomx258asdda/px5.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", TVC Deportes
+http://regioflix.club/canales/regiomx258asdda/tvcdeportes.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", CNN Español
+http://regioflix.club/canales/regiomx258asdda/cnn.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", TVE
+http://regioflix.club/canales/regiomx258asdda/tve.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Antena 3
+http://regioflix.club/canales/regiomx258asdda/antena3.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", DW
+http://regioflix.club/canales/regiomx258asdda/dw.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", A3Series
+http://regioflix.club/canales/regiomx258asdda/a3series.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Az Mix
+http://regioflix.club/canales/regiomx258asdda/azmix.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", MTV Live
+http://regioflix.club/canales/regiomx258asdda/mtvlive.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", MTV
+http://regioflix.club/canales/regiomx258asdda/mtv.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", VH1 HD
+http://regioflix.club/canales/regiomx258asdda/vh1.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Telehit
+http://regioflix.club/canales/regiomx258asdda/telehit.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Telehit Plus
+http://regioflix.club/canales/regiomx258asdda/telehitplus.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Bandamax
+http://regioflix.club/canales/regiomx258asdda/bandamax.php?type=m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", RT Espanol
+https://rt-esp.secure.footprint.net/1102.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", DW Espanol
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Milenio Noticias
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", NTN24
+https://rcnhd.cdn.net.co/live04/ntn24.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", CB24
+http://18.191.91.130:1935/live/CB24/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", NHK World Japon
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", The Water Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Wather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Eart Tv
+https://livecdn01-earthtv-com.freetls.fastly.net/stream25/cdnedge/smil:TWL-en.smil/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJodHRwczovL2xpdmVjbG91ZC5lYXJ0aHR2LmNvbSIsImh0dHBzOi8vbGl2ZWNsb3VkLmVhcnRodHYuY29tIjp7ImFpZCI6IjcwMWI2OTI5LTUxOWEtNDI3NS05YTVjLTllNTU5ZDNhZDg4NCIsInNpZCI6IjBjMzU0NGFiLTRiYjEtNDE3ZS04ZWFjLTIyYTllZDdhNTUxZiIsInRpZCI6ImFiNDNjMzQ1LTk4MmMtNGEwYS1hZjEyLTBkYWQwNmUzMmY1ZiIsInR5cCI6InVyaSJ9LCJpYXQiOjE1NTA1NjQ3ODZ9.yPZT9XYIJq4YNlaR7eycjQeApd9IcH5Z4E0QT6dSjX8
+#EXTINF:-1 tvg-id="" tvg-logo="", WAPA
+http://wowzaprod100-i.akamaihd.net/hls/live/254914/883a88b8/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Multimedios MTY
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Multimedios CDMX
+https://mdstrm.com/live-stream-playlist/5b80728b0a2ea475ba2359a5.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Multimedios GDL
+https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Multimedios Laguna
+https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Tv Publica
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", RCN
+https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Fm HOT
+http://fmhot.04.cl.cdnz.cl/fmhot/cdn.smil/.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Locomotion
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="", Cachipum TV
+http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
